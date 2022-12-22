@@ -1,0 +1,28 @@
+body {
+    background-color: #FFEFEF;
+    font-family: sans-serif;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 4px;
+    border-color: #9D9D9D;
+    width: 20%;
+}
+
+h1 {
+    color: #F38BA0;
+}
+
+h2 {
+    color: #F38BA0;
+}
+
+table {
+    text-align: left;
+}
+
+ul {
+    list-style-type: circle;
+}
